@@ -49,6 +49,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.2
+
+- Removed the "packages" instruction see if it helps
+
 ## 0.0.1
 
 - Install MySQL libdev on top of a Python + Ubuntu 12.04 install
