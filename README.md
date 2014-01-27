@@ -19,7 +19,7 @@ services:
 
 Status on wercker:
 
-[![wercker status](https://app.wercker.com/status/52e62f4b0b0700e03b01aa9c/m "wercker status")](https://app.wercker.com/project/bykey/52e62f4b0b0700e03b01aa9c)
+[![wercker status](https://app.wercker.com/status/98e3ac5cf12b6e78f1c1770c4d73ebb8/m "wercker status")](https://app.wercker.com/project/bykey/98e3ac5cf12b6e78f1c1770c4d73ebb8)
 
 I've also added a Vagrantfile + provisioning bash script so you can run a local instance with Rethinkdb and test the provisioning
 
