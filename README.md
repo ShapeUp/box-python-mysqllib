@@ -3,11 +3,8 @@ box-python-mysqllib
 
 Wercker box for Python with MySQL lib
 
-See the boxes section on our [dev
-center](http://devcenter.wercker.com/articles/boxes)
-
 Source:
-https://github.com/mies/box-python-mysqllib
+https://github.com/shapeup/box-python-mysqllib
 
 use this with wercker; in your wercker.yml file:
 
