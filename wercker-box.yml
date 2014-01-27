@@ -1,0 +1,13 @@
+name: python-mysqllib
+version: 0.0.1
+inherits: wercker/python@0.0.12
+type: main
+platform: ubuntu@12.04
+description: lifesum box for python testing with mysql+memcached
+keywords:
+  - mysql
+packages:
+  - mysql
+script: |
+  sudo apt-get update -y
+  sudo apt-get install libmysqlclient-dev -y
