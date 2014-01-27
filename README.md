@@ -49,6 +49,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.3
+
+- Update pip
+
 ## 0.0.2
 
 - Removed the "packages" instruction see if it helps

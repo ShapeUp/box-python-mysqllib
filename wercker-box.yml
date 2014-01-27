@@ -1,5 +1,5 @@
 name: python-mysqllib
-version: 0.0.2
+version: 0.0.3
 inherits: wercker/python@0.0.12
 type: main
 platform: ubuntu@12.04
@@ -9,3 +9,4 @@ keywords:
 script: |
   sudo apt-get update -y
   sudo apt-get install libmysqlclient-dev python-dev -y
+  sudo easy_install --upgrade pip
